@@ -1,0 +1,15 @@
+{
+  "name": "@wcd/tamirvonage.svelte-l2eibkn3",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve JklwjIbObrKXFIn5VIS1 --open"
+  },
+  "dependencies": {
+    "@vonage/vivid": "^2.25.8",
+    "lit-html": "^1"
+  }
+}
